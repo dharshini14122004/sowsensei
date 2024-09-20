@@ -1,2 +1,2 @@
 # sowsensei
-A innovative project that give the current weather report and also it is integrated with a chatbot.....from which you can get the information about agriculture and  information about various crop cultivation,,say for the necessary climate ,rainfall...anything 
+SowSensei is an intelligent platform that provides real-time weather updates and answers any agriculture-related questions through its integrated chatbot. Whether it's about crop cultivation, soil conditions, or agricultural practices, the chatbot offers precise and valuable information to assist farmers, agricultural planners, and other professionals. The platform enhances productivity and efficiency by delivering accurate insights, supporting smarter farming decisions.
